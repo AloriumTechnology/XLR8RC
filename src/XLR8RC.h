@@ -1,3 +1,12 @@
+/*
+ * Copyright (c) 2019 Alorium Technology
+ * Bryan Craker, info@aloriumtech.com
+ *
+ * RC library for use with the RC XB on an XLR8 family board.
+ *
+ * MIT License
+ */
+
 #ifndef XLR8_RC_H
 #define XLR8_RC_H
 
